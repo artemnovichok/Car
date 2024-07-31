@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616406869950",
+    "project_id": "race-master-vehicle-build-sim",
+    "storage_bucket": "race-master-vehicle-build-sim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616406869950:android:662d114c805b5f37553bef",
+        "android_client_info": {
+          "package_name": "com.SamuraiGames.craft.build.car.RaceMasterVehicleBuildSim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzsIVYaFviDgH7W2xtAnGV75ABiKJqqOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
